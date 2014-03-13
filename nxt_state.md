@@ -287,7 +287,7 @@ Account ID | Balance | Send trans. | Receive trans. | Alias trans. | Messages
 
 
 
-The message system has received only limited use, with 1384 messages sent to date, and 4 accounts sending 73.12% of all messages.  3 of those 4 accounts have only sent messages back and forth between each other, suggesting a development network.  Backtracking deposits to those messaging accounts leads to [info.nxtcrypto.org](info.nxtcrypto.org) and deep NXT pockets, indicating that this group of 3 accounts belongs to the core group of NXT developers and/or was used for testing purposes by that group.  
+The message system has received only limited use, with 1384 messages sent to date, and 4 accounts sending 73.12% of all messages.  3 of those 4 accounts have only sent messages back and forth between each other, suggesting a development network.  Backtracking deposits to those messaging accounts leads to [info.nxtcrypto.org](http://info.nxtcrypto.org) and deep NXT pockets, indicating that this group of 3 accounts belongs to the core group of NXT developers and/or was used for testing purposes by that group.  
 
 The fourth account has sent a small number of messages (generally 1-2) to a large number of different recipients (none of which correspond to the other 3 major users of the message system).  Backtracking NXT deposits to this account, one can identify this as some sort of development or investment network for an alternative NXT client.  
 
