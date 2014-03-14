@@ -168,12 +168,14 @@ Account ID | NXT Balance
 
 
 
-NXT transfer transactions are not surprisingly more evenly distributed among accounts than NXT coins themselves.  9056 accounts are needed to represent 95% of all NXT send transactions.  5 accounts have sent NXT more than 1000 times and only 2 accounts have sent NXT more than 10000 times.  These accounts are most likely associated with the large exchanges (one of the accounts is known to belong to DGEX). 
+NXT transfer transactions are not surprisingly more evenly distributed among accounts than NXT coins themselves.  9056 accounts are needed to represent 95% of all NXT send transactions.  5 accounts have sent NXT more than 1000 times and only 2 accounts have sent NXT more than 10000 times.  The number 1 transfer account has 14805 transfers, but only a small number of NXT receipts.  This account belongs to the NXT faucet system suggesting that 14805 NXT accounts have received faucet deposits. 
+
+The other large-send accounts are most likely associated with the large exchanges.  Indeed, one of the accounts is known to belong to DGEX. 
 
 <img src="figure/f_send_quant.png" title="plot of chunk f_send_quant" alt="plot of chunk f_send_quant" style="display: block; margin: auto;" />
 
 
-**Figure 12. Accounts representing large number of NXT send transactions.  Panel on left shows cummulative distribution of all NXT send transaction by number of accounts summing from largest accounts to smallest (i.e., the 9056 NXT accounts with the most send transactions represent 95% of all NXT send transactions).  Panel on right shows number of NXT send transactions in high transfer accounts.**
+**Figure 12. Accounts representing large numbers of NXT send transactions.  Panel on left shows cummulative distribution of all NXT send transaction by number of accounts summing from largest accounts to smallest (i.e., the 9056 NXT accounts with the most send transactions represent 95% of all NXT send transactions).  Panel on right shows number of NXT send transactions in high transfer accounts.**
 
 **Table 2. 20 accounts with the largest number of send transactions.**
 
@@ -209,7 +211,7 @@ Account ID | Balance | Send trans. | Receive trans. | Alias trans. | Messages | 
 
 Receipt of NXT transactions are quite evenly distributed among accounts as all accounts must receive NXT at least once and only a few accounts have received NXT many times.  Faucet accounts are clearly visible in the cummulative distribution of NXT receipts by the linear growth between number of accounts and number of transfers received after about 10000 accounts.
 
-Only 3 accounts have received NXT more than 1000 times.  Again, there accounts are undoubtedly associated with exchanges.
+Only 3 accounts have received NXT more than 1000 times.  Again, these accounts are undoubtedly associated with exchanges.
 
 <img src="figure/f_rec_quant.png" title="plot of chunk f_rec_quant" alt="plot of chunk f_rec_quant" style="display: block; margin: auto;" />
 
@@ -248,7 +250,7 @@ Account ID | Balance | Send trans. | Receive trans. | Alias trans. | Messages | 
 
 
 
-The NXT alias system has been rather successful, with 70975 alias assignments to date, and 136 accounts having registered more than 100 aliases.  The alias system seems to be attracting a somewhat different type of speculator than the main NXT transaction system as some accounts with a large number of aliases have very low balances and have only a very minor level of participation in other aspects of the NXT system.
+The NXT alias system has been rather successful, with 70975 alias assignments to date, and 136 accounts having registered more than 100 aliases.  The alias system seems to be attracting a somewhat different type of speculator than the main NXT transaction system as some accounts with a large number of aliases have very low balances and have only a very minor level of participation in other aspects of the NXT system.  Alternatively, NXT users may be purposely separating primary deposit accounts from alias registration accounts.
 
 <img src="figure/f_alias_quant.png" title="plot of chunk f_alias_quant" alt="plot of chunk f_alias_quant" style="display: block; margin: auto;" />
 
