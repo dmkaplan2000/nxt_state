@@ -391,7 +391,7 @@ Given this analysis, one can estimate the core number of NXT investors and activ
 <img src="figure/core_lorenz_curve.png" title="plot of chunk core_lorenz_curve" alt="plot of chunk core_lorenz_curve" style="display: block; margin: auto;" />
 
 
-**Figure 17. [Lorenz curve](http://en.wikipedia.org/wiki/Lorenz_curve) for NXT account balances of 865 in cluster groups 1-5.**
+**Figure 17. [Lorenz curve](http://en.wikipedia.org/wiki/Lorenz_curve) for NXT account balances of 865 accounts in cluster groups 1-5.**
 
 ## TODO list
 
