@@ -25,7 +25,7 @@
 
 ## Creation info
 
-**Author:** David M. Kaplan (NXT: 409265435876025552, BTC: 12EZmrowPGxYL7yZMTZfVKc6i5eLyCdDEs)
+**Author:** David M. Kaplan (NXT: [409265435876025552](http://87.230.14.1/nxt/nxt.cgi?action=3000&acc=409265435876025552), BTC: 12EZmrowPGxYL7yZMTZfVKc6i5eLyCdDEs)
 
 **Date:** Sat Mar 15 10:22:12 2014
 
