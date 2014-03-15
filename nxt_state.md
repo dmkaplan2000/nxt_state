@@ -158,7 +158,7 @@ Collectively, this leads to a [Gini index of inequality](http://en.wikipedia.org
 <img src="figure/balance_ineq.png" title="plot of chunk balance_ineq" alt="plot of chunk balance_ineq" style="display: block; margin: auto;" />
 
 
-**Figure NA. [Lorenz curve](http://en.wikipedia.org/wiki/Lorenz_curve) for NXT account balances.**
+**Figure 12. [Lorenz curve](http://en.wikipedia.org/wiki/Lorenz_curve) for NXT account balances.**
 
 **Table 1. 20 accounts with the largest balances.**
 
@@ -198,7 +198,7 @@ The other large-send accounts are most likely associated with the large exchange
 <img src="figure/f_send_quant.png" title="plot of chunk f_send_quant" alt="plot of chunk f_send_quant" style="display: block; margin: auto;" />
 
 
-**Figure 12. Accounts representing large numbers of NXT send transactions.  Panel on left shows cummulative distribution of all NXT send transaction by number of accounts summing from largest accounts to smallest (i.e., the 9112 NXT accounts with the most send transactions represent 95% of all NXT send transactions).  Panel on right shows number of NXT send transactions in high transfer accounts.**
+**Figure 13. Accounts representing large numbers of NXT send transactions.  Panel on left shows cummulative distribution of all NXT send transaction by number of accounts summing from largest accounts to smallest (i.e., the 9112 NXT accounts with the most send transactions represent 95% of all NXT send transactions).  Panel on right shows number of NXT send transactions in high transfer accounts.**
 
 **Table 2. 20 accounts with the largest number of send transactions.**
 
@@ -234,12 +234,12 @@ Account ID | Balance | Send trans. | Receive trans. | Alias trans. | Messages | 
 
 Receipt of NXT transactions are quite evenly distributed among accounts as all accounts must receive NXT at least once and only a few accounts have received NXT many times.  Faucet accounts are clearly visible in the cumulative distribution of NXT receipts by the linear growth between number of accounts and number of transfers received after about 10000 accounts.
 
-Only 3 accounts have received NXT more than 1000 times.  Again, there accounts are undoubtedly associated with exchanges.
+Only 3 accounts have received NXT more than 1000 times.  Again, these accounts are undoubtedly associated with exchanges.
 
 <img src="figure/f_rec_quant.png" title="plot of chunk f_rec_quant" alt="plot of chunk f_rec_quant" style="display: block; margin: auto;" />
 
 
-**Figure 13. Accounts receiving large numbers of NXT transfers.  Panel on left shows cummulative distribution of all NXT transactions received by number of accounts summing from largest "receivers" to smallest (the 23866 NXT accounts receiving the most NXT transfers represent 95% of all NXT transfers).  Panel on right shows number of NXT transfers received in high transfer accounts.**
+**Figure 14. Accounts receiving large numbers of NXT transfers.  Panel on left shows cummulative distribution of all NXT transactions received by number of accounts summing from largest "receivers" to smallest (the 23866 NXT accounts receiving the most NXT transfers represent 95% of all NXT transfers).  Panel on right shows number of NXT transfers received in high transfer accounts.**
 
 
 **Table 3. 20 accounts with the largest number of NXT transfers received.**
@@ -278,7 +278,7 @@ The NXT alias system has been rather successful, with 71102 alias assignments to
 <img src="figure/f_alias_quant.png" title="plot of chunk f_alias_quant" alt="plot of chunk f_alias_quant" style="display: block; margin: auto;" />
 
 
-**Figure 14. Accounts representing large number of aliases (really alias assignments).  Panel on left shows cummulative distribution of all NXT aliases by number of accounts summing down from accounts with most aliases (381 NXT accounts control 95% of all NXT aliases).  Panel on right shows number of NXT aliases owned by accounts with a large number of alias assignments.**
+**Figure 15. Accounts representing large number of aliases (really alias assignments).  Panel on left shows cummulative distribution of all NXT aliases by number of accounts summing down from accounts with most aliases (381 NXT accounts control 95% of all NXT aliases).  Panel on right shows number of NXT aliases owned by accounts with a large number of alias assignments.**
 
 
 **Table 4. 20 accounts with the largest number of alias assignment transactions.**
@@ -321,7 +321,7 @@ None of these 4 accounts have large balances or transfer activity, indicating th
 <img src="figure/f_mess_quant.png" title="plot of chunk f_mess_quant" alt="plot of chunk f_mess_quant" style="display: block; margin: auto;" />
 
 
-**Figure 15. Accounts sending large numbers of NXT messages.  Panel on left shows cummulative distribution of all NXT messages sent summing from largest sending accounts to smallest (59 NXT accounts sent 95% of all NXT messages).  Panel on right shows number of messages sent by accounts sending most messages.**
+**Figure 16. Accounts sending large numbers of NXT messages.  Panel on left shows cummulative distribution of all NXT messages sent summing from largest sending accounts to smallest (59 NXT accounts sent 95% of all NXT messages).  Panel on right shows number of messages sent by accounts sending most messages.**
 
 
 **Table 5. 20 accounts sending the largest number of messages.**
@@ -391,7 +391,7 @@ Given this analysis, one can estimate the core number of NXT investors and activ
 <img src="figure/core_lorenz_curve.png" title="plot of chunk core_lorenz_curve" alt="plot of chunk core_lorenz_curve" style="display: block; margin: auto;" />
 
 
-**Figure NA. [Lorenz curve](http://en.wikipedia.org/wiki/Lorenz_curve) for NXT account balances of 865 in cluster groups 1-5.**
+**Figure 17. [Lorenz curve](http://en.wikipedia.org/wiki/Lorenz_curve) for NXT account balances of 865 in cluster groups 1-5.**
 
 ## TODO list
 
