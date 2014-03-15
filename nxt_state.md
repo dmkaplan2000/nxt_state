@@ -31,13 +31,13 @@
 
 **NXT Block Height:** 88495 
 
-**Copyright:** David M. Kaplan (2014)
+**Copyright:** David M. Kaplan (2014).  Individuals are free to re-transmit excerpts of this report provided that (1) the author is acknowledged and a link to the full report is provided and (2) quoted excerpts of text and figures are not modified.
 
 ## Summary
 
 This report consists of statistical analyses of the NXT blockchain to assess network activity and buy-in.  Time series of NXT transaction activity are calculated, and the set of NXT accounts is analyzed for wealth distribution and investment level.  Time series analyses indicate that after an initial period of intense interest and activity, NXT transaction levels have declined steadily over the last ~2 months.  This suggests that potential NXT investors are waiting for new features or dynamics to come online before investing in the NXT network.  The recent downturn in Bitcoin's fortunes undoubtedly also has had an effect on the entire cryptocurrency market.  Nevertheless, the number of NXT accounts continues to grow and the fraction of all NXT that is forging has remained relatively stable.
 
-95% of all NXT are deposited in ~460 NXT accounts.  NXT accounts can be broken down into well identifiable groups based on account activity and balance.  This account clustering analysis suggests that ~850 accounts represents the core group of NXT activists and investors.  The [Gini index of wealth inequality](http://en.wikipedia.org/wiki/Gini_coefficient) for this "core group" of accounts is 0.95.  The majority of the remaining NXT accounts consists of one-time-use, low-balance faucet accounts.  
+95% of all NXT are deposited in ~460 NXT accounts.  NXT accounts can be broken down into well identifiable groups based on account activity and balance.  This account clustering analysis suggests that ~850 accounts represents the core group of NXT activists and investors.  The [Gini index of wealth inequality](http://en.wikipedia.org/wiki/Gini_coefficient) for this "core group" of accounts is 0.95.  The majority of the remaining NXT accounts consists of one-time-use, low-balance faucet accounts.
 
 The alias system has attracted significant interest, whereas the message system has received limited use.  The prior is in part due to significant speculation by a small group of NXT users and the current low cost of assigning aliases.  The latter will likely change as new features, such as asset exchange, come online.
 
